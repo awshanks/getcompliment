@@ -64,6 +64,3 @@ typings/
 
 # intellij idea
 .idea
-
-# lock file
-package-lock.json
