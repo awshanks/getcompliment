@@ -8,7 +8,8 @@ let COMPLIMENT_LIST = [
     "Your looking great this morning!",
     "Today is going to be a good day",
     "get up and have some chocolate",
-    "treat yourself to some new shoes"
+    "treat yourself to some new shoes",
+    "try out Hacktoberfest to get involved"
 ];
 
 exports.handler = function(event, context, callback) {
